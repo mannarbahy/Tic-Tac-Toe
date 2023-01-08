@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-### - Collaboration with my college team
+
 
 <br>
 
