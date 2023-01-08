@@ -7,4 +7,4 @@
  
  <br>
  
- ### you can try it from   <a href="https://mannarbahy.github.io/Tic-Tac-Toe/"> here </a>
+ ### You can try it <a href="https://mannarbahy.github.io/Tic-Tac-Toe/"> Here </a> . 
