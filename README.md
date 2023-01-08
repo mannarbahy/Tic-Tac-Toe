@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-### - Collaboration with my college team 
-<div align="center">
-  <img src="file:///C:/Users/dell/OneDrive/Documents/ticc%20.jpg" width="600" height="200"/>
-</div> 
+### - Collaboration with my college team
+
+
+ ![ticc ](https://user-images.githubusercontent.com/112812979/211179498-6704983b-f9f9-474f-a6a9-efa40c7a7d9d.jpg)
